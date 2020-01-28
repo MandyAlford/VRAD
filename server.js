@@ -24,7 +24,7 @@ app.listen(app.get('port'), () => {
   console.log(`${app.locals.title} is running on http://localhost:${app.get('port')}.`);
 });
 
-
+//Listings
 app.get('/api/v1/listings', (req, res) => {
   const listings = app.locals.listings;
 
@@ -32,11 +32,23 @@ app.get('/api/v1/listings', (req, res) => {
 });
 
 
+app.get('/api/v1/listings/:id', (req, res) => {
+  const { id } = req.params;
+  const rental = app.locals.listings.find(listing => listing.photo_id == id);
+  if (!rental) {
+    return res.sendStatus(404);
+  }
+
+  res.status(200).json(rental)
+});
+
+//Areas
 app.get('/api/v1/areas', (req, res) => {
   const areas = app.locals.areas;
   res.json({ areas });
 });
 
+//Area Details
 app.get('/api/v1/areas/:id', (req, res) => {
   const { id } = req.params;
   const details = app.locals.areaDetails.find(area => area.id == id);
