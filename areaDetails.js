@@ -1,5 +1,5 @@
 module.exports = {
-  details: [
+  areaDetails: [
     {
       id: 590,
       name: "River North",

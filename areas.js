@@ -2,19 +2,19 @@ module.exports = {
   areas : [
     {
       area: "RiNo",
-      details: 'someURL'
+      details: 'api/v1/areas/590'
     },
     {
       area: "Park Hill",
-      details: 'someURL'
+      details: 'api/v1/areas/751'
     },
     {
       area: "LoHi",
-      details: 'someURL'
+      details: 'api/v1/areas/408'
     },
     {
       name: "CapHill",
-      details: 'someURL'
+      details: 'api/v1/areas/240'
     }
   ]
 }
