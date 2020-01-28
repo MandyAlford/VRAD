@@ -56,7 +56,7 @@ module.exports = {
       listings: [
         '/api/v1/listings/66',
         '/api/v1/listings/555',
-        '/api/v1/listings/27',
+        '/api/v1/listings/27',  
         '/api/v1/listings/8',
       ]
     }
