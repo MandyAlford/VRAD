@@ -2,6 +2,7 @@ module.exports = {
   listings: [
     {
       photo_id: 3,
+      area_id: 590,
       name: "Hip RiNo Party Spot",
       address: {
         street: "2250 Lawrence St",
@@ -25,6 +26,7 @@ module.exports = {
     },
     {
       photo_id: 44,
+      area_id: 590,
       name: "Lowkey Industrial Chic",
       address: {
         street: "2441 Broadway Ave",
@@ -49,6 +51,7 @@ module.exports = {
     },
     {
       photo_id: 221,
+      area_id: 590,
       name: "New Modern Flat in RiNo",
       address: {
         street: "2459 Lawrence St",
@@ -73,6 +76,7 @@ module.exports = {
     },
     {
       photo_id: 744,
+      area_id: 590,
       name: "Upscale Modern Apartments",
       address: {
         street: "2345 Walnut St",
@@ -97,6 +101,7 @@ module.exports = {
     },
     {
       photo_id: 90,
+      area_id: 590,
       name: "Loft Living in RiNo",
       address: {
         street: "2245 Blake St",
@@ -121,6 +126,7 @@ module.exports = {
     },
     {
       photo_id: 310,
+      area_id: 590,
       name: "Brand New RiNo Build",
       address: {
         street: "2525 Arapahoe St",
@@ -141,6 +147,7 @@ module.exports = {
     },
     {
       photo_id: 3921,
+      area_id: 751,
       name: "Spacious New Build in Park Hill",
       address: {
         street: "2127 Clay St",
@@ -165,6 +172,7 @@ module.exports = {
     },
     {
       photo_id: 56,
+      area_id: 751,
       name: "Updated Park Hill Duplex",
       address: {
         street: "935 S Clarkson St",
@@ -188,6 +196,7 @@ module.exports = {
     },
     {
       photo_id: 21,
+      area_id: 751,
       name: "Historic Park Hill abode",
       address: {
         street: "135 N Logan St",
@@ -211,6 +220,7 @@ module.exports = {
     },
     {
       photo_id: 83331,
+      area_id: 408,
       name: "LoHi Heaven",
       address: {
         street: "3607 Navajo St",
@@ -237,6 +247,7 @@ module.exports = {
     },
     {
       photo_id: 411,
+      area_id: 408,
       name: "LoHi Bungalow",
       address: {
         street: "3349 Zuni St",
@@ -262,6 +273,7 @@ module.exports = {
     },
     {
       photo_id: 92,
+      area_id: 408,
       name: "Quaint Lohi Duplex",
       address: {
         street: "1822 W 35th Ave",
@@ -287,6 +299,7 @@ module.exports = {
     },
     {
       photo_id: 6135,
+      area_id: 408,
       name: "Downtown Views Galore",
       address: {
         street: "1750 Wewatta St",
@@ -313,6 +326,7 @@ module.exports = {
     },
     {
       photo_id: 9,
+      area_id: 408,
       name: "LoHi Super Pad",
       address: {
         street: "3731 Lipan St",
@@ -339,6 +353,7 @@ module.exports = {
     },
     {
       photo_id: 11,
+      area_id: 408,
       name: "Gorgeous LoHi Home",
       address: {
         street: "2817 W 33rd Ave",
@@ -365,6 +380,7 @@ module.exports = {
     },
     {
       photo_id: 77,
+      area_id: 408,
       name: "Open Layout LoHi Getaway",
       address: {
         street: "1700 Bassett St",
@@ -389,6 +405,7 @@ module.exports = {
     },
     {
       photo_id: 66,
+      area_id: 240,
       name: "Cap Hill Overlook",
       address: {
         street: "925 N Lincoln St",
@@ -414,6 +431,7 @@ module.exports = {
     },
     {
       photo_id: 555,
+      area_id: 240,
       name: "Cap Hill Duplex Delight",
       address: {
         street: "430 E 6th Ave",
@@ -434,6 +452,7 @@ module.exports = {
     },
     {
       photo_id: 27,
+      area_id: 240,
       name: "Cap Hill Castle",
       address: {
         street: "1424 N Clarkson St",
@@ -457,6 +476,7 @@ module.exports = {
     },
     {
       photo_id: 8,
+      area_id: 240,
       name: "Elegant Cap Hill Mansion",
       address: {
         street: "1070 N Humboldt St",
