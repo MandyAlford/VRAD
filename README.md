@@ -1,7 +1,8 @@
 ## VRAD API
+![VRAD](https://media.giphy.com/media/3yFr6ODcNHhrW/giphy.gif)
+You will be consuming this API as part of your VRAD project. Setup instructions are below.
 
 ### Set Up
-
 1. Clone down this repo
 2. Run `npm install` from within the directory
 3. Start the server by running `npm start`
