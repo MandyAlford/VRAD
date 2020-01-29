@@ -1,5 +1,6 @@
 ## VRAD API
 ![VRAD](https://media.giphy.com/media/3yFr6ODcNHhrW/giphy.gif)
+
 You will be consuming this API as part of your VRAD project. Setup instructions are below.
 
 ### Set Up
