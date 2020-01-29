@@ -1,7 +1,7 @@
 module.exports = {
-  listings: [
+   : [
     {
-      photo_id: 3,
+      listing_id: 3,
       area_id: 590,
       name: "Hip RiNo Party Spot",
       address: {
@@ -25,7 +25,7 @@ module.exports = {
       db_connect: 834470
     },
     {
-      photo_id: 44,
+      listing_id: 44,
       area_id: 590,
       name: "Lowkey Industrial Chic",
       address: {
@@ -50,7 +50,7 @@ module.exports = {
       db_connect: 694530
     },
     {
-      photo_id: 221,
+      listing_id: 221,
       area_id: 590,
       name: "New Modern Flat in RiNo",
       address: {
@@ -75,7 +75,7 @@ module.exports = {
       db_connect: 872937
     },
     {
-      photo_id: 744,
+      listing_id: 744,
       area_id: 590,
       name: "Upscale Modern Apartments",
       address: {
@@ -100,7 +100,7 @@ module.exports = {
       db_connect: 233658
     },
     {
-      photo_id: 90,
+      listing_id: 90,
       area_id: 590,
       name: "Loft Living in RiNo",
       address: {
@@ -125,7 +125,7 @@ module.exports = {
       db_connect: 180124
     },
     {
-      photo_id: 310,
+      listing_id: 310,
       area_id: 590,
       name: "Brand New RiNo Build",
       address: {
@@ -146,7 +146,7 @@ module.exports = {
       db_connect: 173411
     },
     {
-      photo_id: 3921,
+      listing_id: 3921,
       area_id: 751,
       name: "Spacious New Build in Park Hill",
       address: {
@@ -154,7 +154,7 @@ module.exports = {
         zip: 80207
       },
       details: {
-        neighborhood_id: 018512,
+        neighborhood_id: 18512,
         superhost: false,
         seller_source: "kksa722",
         beds: 2,
@@ -171,7 +171,7 @@ module.exports = {
       db_connect: 989167
     },
     {
-      photo_id: 56,
+      listing_id: 56,
       area_id: 751,
       name: "Updated Park Hill Duplex",
       address: {
@@ -179,7 +179,7 @@ module.exports = {
         zip: 80209
       },
       details: {
-        neighborhood_id: 018512,
+        neighborhood_id: 18512,
         superhost: true,
         seller_source: "kksa722",
         beds: 2,
@@ -195,7 +195,7 @@ module.exports = {
       db_connect: 117825
     },
     {
-      photo_id: 21,
+      listing_id: 21,
       area_id: 751,
       name: "Historic Park Hill abode",
       address: {
@@ -203,7 +203,7 @@ module.exports = {
         zip: 80203
       },
       details: {
-        neighborhood_id: 018512,
+        neighborhood_id: 18512,
         superhost: true,
         seller_source: "kksa722",
         beds: 4,
@@ -219,7 +219,7 @@ module.exports = {
       db_connect: 169591
     },
     {
-      photo_id: 83331,
+      listing_id: 83331,
       area_id: 408,
       name: "LoHi Heaven",
       address: {
@@ -246,7 +246,7 @@ module.exports = {
       db_connect: 489974
     },
     {
-      photo_id: 411,
+      listing_id: 411,
       area_id: 408,
       name: "LoHi Bungalow",
       address: {
@@ -272,7 +272,7 @@ module.exports = {
       db_connect: 989089
     },
     {
-      photo_id: 92,
+      listing_id: 92,
       area_id: 408,
       name: "Quaint Lohi Duplex",
       address: {
@@ -298,7 +298,7 @@ module.exports = {
       db_connect: 807504
     },
     {
-      photo_id: 6135,
+      listing_id: 6135,
       area_id: 408,
       name: "Downtown Views Galore",
       address: {
@@ -325,7 +325,7 @@ module.exports = {
       db_connect: 468486
     },
     {
-      photo_id: 9,
+      listing_id: 9,
       area_id: 408,
       name: "LoHi Super Pad",
       address: {
@@ -352,7 +352,7 @@ module.exports = {
       db_connect: 154813
     },
     {
-      photo_id: 11,
+      listing_id: 11,
       area_id: 408,
       name: "Gorgeous LoHi Home",
       address: {
@@ -379,7 +379,7 @@ module.exports = {
       db_connect: 842055
     },
     {
-      photo_id: 77,
+      listing_id: 77,
       area_id: 408,
       name: "Open Layout LoHi Getaway",
       address: {
@@ -404,7 +404,7 @@ module.exports = {
       db_connect: 247208
     },
     {
-      photo_id: 66,
+      listing_id: 66,
       area_id: 240,
       name: "Cap Hill Overlook",
       address: {
@@ -430,7 +430,7 @@ module.exports = {
       db_connect: 736524
     },
     {
-      photo_id: 555,
+      listing_id: 555,
       area_id: 240,
       name: "Cap Hill Duplex Delight",
       address: {
@@ -451,7 +451,7 @@ module.exports = {
       db_connect: 681159
     },
     {
-      photo_id: 27,
+      listing_id: 27,
       area_id: 240,
       name: "Cap Hill Castle",
       address: {
@@ -475,7 +475,7 @@ module.exports = {
       db_connect: 182213
     },
     {
-      photo_id: 8,
+      listing_id: 8,
       area_id: 240,
       name: "Elegant Cap Hill Mansion",
       address: {

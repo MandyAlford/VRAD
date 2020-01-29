@@ -9,16 +9,11 @@ app.use(cors());
 app.set('port', process.env.PORT || 3000);
 
 app.locals = {
-  title: 'Listings for Denver',
+  title: 'VRAD - Denver Edition',
   listings,
   areas,
   areaDetails
 }
-app.locals.title = 'Listings for Denver Area';
-
-app.get('/', (req, res) => {
-  res.send('This is working');
-});
 
 app.listen(app.get('port'), () => {
   console.log(`${app.locals.title} is running on http://localhost:${app.get('port')}.`);
