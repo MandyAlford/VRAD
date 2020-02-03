@@ -1,5 +1,5 @@
 module.exports = {
-   : [
+  listings : [
     {
       listing_id: 3,
       area_id: 590,
