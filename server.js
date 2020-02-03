@@ -6,7 +6,7 @@ const { listings } = require('./listings');
 const { areaDetails } = require('./areaDetails');
 
 app.use(cors());
-app.set('port', process.env.PORT || 3000);
+app.set('port', process.env.PORT || 3001);
 
 app.locals = {
   title: 'VRAD - Denver Edition',
