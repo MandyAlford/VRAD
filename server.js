@@ -29,7 +29,7 @@ app.get('/api/v1/listings', (req, res) => {
 
 app.get('/api/v1/listings/:id', (req, res) => {
   const { id } = req.params;
-  const rental = app.locals.listings.find(listing => listing.photo_id == id);
+  const rental = app.locals.listings.find(listing => listing.listing_id == id);
   if (!rental) {
     return res.sendStatus(404);
   }
