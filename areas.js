@@ -13,7 +13,7 @@ module.exports = {
       details: '/api/v1/areas/408'
     },
     {
-      name: "Cap Hill",
+      area: "Cap Hill",
       details: '/api/v1/areas/240'
     }
   ]
